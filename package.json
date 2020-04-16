@@ -1,0 +1,19 @@
+{
+  "name": "talentteam_testtask_solution",
+  "version": "1.0.0",
+  "description": "talent team backend intern developer test task's solution. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SibiryakovVictor/talentteam_challenge.git"
+  },
+  "author": "Sibiryakov Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SibiryakovVictor/talentteam_challenge/issues"
+  },
+  "homepage": "https://github.com/SibiryakovVictor/talentteam_challenge#readme"
+}
