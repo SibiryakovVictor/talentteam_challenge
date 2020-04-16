@@ -59,7 +59,7 @@ function parseFullName( filePath ) {
          
 }
 
-/*  */
+/* обработка строки с полным именем с целью вычленения ФИО */
 function processParsedFullName( fullName )
 {
     /* удаление пробелов в начале и конце строки */
